@@ -1,0 +1,85 @@
+Sydney
+Albury
+Armidale
+Bathurst
+Broken Hill
+Cessnock
+Coffs Harbour
+Dubbo
+Gosford
+Goulburn
+Grafton
+Griffith
+Lake Macquarie
+Lismore
+Maitland
+Newcastle
+Nowra
+Orange
+Port Macquarie
+Queanbeyan
+Tamworth
+Tweed Heads
+Wagga Wagga
+Wollongong
+Wyong
+Darwin
+Alice Springs
+Katherine
+Palmerston
+Brisbane
+Bundaberg
+Cairns
+Charters Towers
+Gladstone
+Gold Coast
+Gympie
+Hervey Bay
+Ipswich
+Logan City
+Mackay
+Maryborough
+Mount Isa
+Nambour
+Redcliffe
+Rockhampton
+Sunshine Coast
+Thuringowa
+Toowoomba
+Townsville
+Adelaide
+Gladstone
+Mount Gambier
+Murray Bridge
+Port Augusta
+Port Pirie
+Port Lincoln
+Victor Harbor
+Whyalla
+Hobart
+Burnie
+Clarence
+Devonport
+Glenorchy
+Launceston
+Melbourne
+Benalla
+Ballarat
+Bendigo
+Geelong
+Latrobe City
+Mildura
+Shepparton
+Swan Hill
+Wangaratta
+Warrnambool
+Wodonga
+Perth
+Albany
+Broome
+Bunbury
+Geraldton
+Fremantle
+Kalgoorlie
+Mandurah
+Port Hedland

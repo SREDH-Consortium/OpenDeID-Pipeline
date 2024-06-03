@@ -1,0 +1,37 @@
+{
+    "database": {
+      "SQLALCHEMY_DATABASE_URI":"postgres+psycopg2://postgres:Dipak9665@192.168.43.176:5432/test_web_commons"
+    },
+    "common": {
+        "meta_prefix": "#$",
+        "tagging_scheme": "BIESO",
+        "labels_path": "./input/labels/labels_BIESO_removed2.txt",
+        "dict_dir": "./input/dictionaries",
+        "dtd_path":  "path",
+        "sent_seg": true,
+        "maxlen": 128,
+        "segment": true,
+        "model_name": "dischargebert"
+    },
+    "train": {
+        "in_dir_train": "./input/datasets/1.train/xml-gold",
+        "in_dir_valid": "./input/datasets/2.valid/xml-gold",
+        "out_dir": "./output/train",
+        "n_epoch": 2,
+        "batch_size": 16,
+        "threshold": 0,
+        "patience": 2,
+        "ignores": ["BIOID", "ROOM"],
+        "ignore_O": false
+    },
+   "predict": {
+        "in_dir": "./input/datasets/3.test/xml-test",
+        "out_dir": "./output/test",
+        "rules": [],
+        "surrogate": false,
+        "batch_size": 32
+  }
+}
+
+
+
